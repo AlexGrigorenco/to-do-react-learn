@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/to-do-react-learn/static/css/main.f1be9343.css",
+    "main.js": "/to-do-react-learn/static/js/main.f941b067.js",
+    "index.html": "/to-do-react-learn/index.html",
+    "static/media/close.svg": "/to-do-react-learn/static/media/close.88dc3a2855e5ec7e0195201e890b6c1b.svg",
+    "main.f1be9343.css.map": "/to-do-react-learn/static/css/main.f1be9343.css.map",
+    "main.f941b067.js.map": "/to-do-react-learn/static/js/main.f941b067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1be9343.css",
+    "static/js/main.f941b067.js"
+  ]
+}
