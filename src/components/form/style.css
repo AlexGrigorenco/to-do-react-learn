@@ -1,0 +1,14 @@
+
+
+
+.inputNote-wrapper{
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.inputNote{
+    outline: 0 !important;
+  }
+  .inputNote::-moz-focus-inner,
+  .inputNote::-moz-focus-outer{
+    border: 0;
+}
