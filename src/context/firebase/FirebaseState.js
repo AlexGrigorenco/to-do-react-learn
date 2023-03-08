@@ -39,7 +39,7 @@ export const FirebaseState =({children}) => {
     const addNote = async title => {
 
         const note = {
-            title, date: new Date().toJSON()
+            title, date: new Date().toLocaleString()
         }
 
         try{
@@ -58,7 +58,7 @@ export const FirebaseState =({children}) => {
             throw new Error(e.message)
         }
 
-        
+        fetchNotes()
     }
 
     const removeNote = async id => {

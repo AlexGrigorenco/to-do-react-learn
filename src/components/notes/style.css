@@ -1,0 +1,24 @@
+
+
+.note-exit-active{
+    animation: note 1s ease-out forwards;
+}
+
+.note-enter-active{
+    animation: note 1s ease-out alternate-reverse;
+}
+
+
+@keyframes note {
+    0%{
+        transform: translateX(0);
+    }
+    30%{
+        opacity: 0.5;
+        transform: translateX(30px);
+    }
+    100%{
+        opacity: 0;
+        transform: translateX(-300px);
+    }
+}
