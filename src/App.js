@@ -17,7 +17,7 @@ function App() {
 
         <div className='container'>
           <Routes>
-            <Route path='/' element={<Home />} />
+            <Route path='/to-do-react-learn' element={<Home />} />
             <Route path='/about' element={<About />} />
           </Routes>
         </div>
