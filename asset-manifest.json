@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/to-do-react-learn/static/css/main.25f85833.css",
-    "main.js": "/to-do-react-learn/static/js/main.d7b9cccc.js",
+    "main.js": "/to-do-react-learn/static/js/main.a58e7f23.js",
     "index.html": "/to-do-react-learn/index.html",
     "static/media/close.svg": "/to-do-react-learn/static/media/close.88dc3a2855e5ec7e0195201e890b6c1b.svg",
     "main.25f85833.css.map": "/to-do-react-learn/static/css/main.25f85833.css.map",
-    "main.d7b9cccc.js.map": "/to-do-react-learn/static/js/main.d7b9cccc.js.map"
+    "main.a58e7f23.js.map": "/to-do-react-learn/static/js/main.a58e7f23.js.map"
   },
   "entrypoints": [
     "static/css/main.25f85833.css",
-    "static/js/main.d7b9cccc.js"
+    "static/js/main.a58e7f23.js"
   ]
 }
